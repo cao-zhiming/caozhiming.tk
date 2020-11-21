@@ -28,4 +28,4 @@
 - [ ] 给网站继续尽可能加速。
 
 ……And more. 
-希望增加一个TO-DO条目？[新建一个issue](https://github.com/xiaocao162020/caozhiming-tk/issues/new/) 来告知我！
+希望增加一个TO-DO条目？[新建一个issue](https://github.com/xiaocao162020/caozhiming.tk/issues/new/choose) 来告知我！
