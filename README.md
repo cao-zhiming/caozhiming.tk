@@ -7,6 +7,24 @@
 
 将支持机器人添加了可用的FAQ功能，修复了一些安全问题，修改了一些积分的获取方式，对外观作出了一定的调整。
 
+- 2021 01 27：
+
+配置了非https的短链接服务[caoz.ml](http://caoz.ml)，托管在GitHub Pages；
+
+添加了W3 Total Cache来加速；
+
+添加了ss.caozhiming.tk作为附加存储系统，防止主服务器空间被占满；
+
+删除了并没有发挥什么作用的辅助功能插件；
+
+试图配置了Google Adsense但不成功；
+
+引入了Sweetalert，并将持续引入至页面；
+
+修复了一些bug…
+
+
+
 
 
 
@@ -25,7 +43,7 @@
 - [ ] 给支持机器人加入Google Dialogflow的AI引擎；
 - [x] 给机器人添加可用的FAQ；
 - [ ] 尽管服务器邮件系统被禁用，再找一种发送重置密码邮件的方法；
-- [ ] 给网站继续尽可能加速。
+- [x] 给网站继续尽可能加速。（我装配了**W3 Total Cache**，用WordPress的小伙伴可以试一下。） 
 
 ……And more. 
 希望增加一个TO-DO条目？[新建一个issue](https://github.com/xiaocao162020/caozhiming.tk/issues/new/choose) 来告知我！
