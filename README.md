@@ -48,6 +48,7 @@
 - [x] 给机器人添加可用的FAQ；
 - [ ] ~~尽管服务器邮件系统被禁用，再找一种发送重置密码邮件的方法；~~（不大可能）
 - [x] 给网站继续尽可能加速。（我装配了**W3 Total Cache**，用WordPress的小伙伴可以试一下。） 
+- [ ] 装配[Google AdSense](https://google.cn/adsense/start/)来试图创收；
 
 ……And more. 
 希望增加一个TO-DO条目？[新建一个issue](https://github.com/xiaocao162020/caozhiming.tk/issues/new/choose) 来告知我！
