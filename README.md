@@ -27,6 +27,14 @@
 
 加入点赞系统，得益于[WP Ulike](https://wpulike.com/)。
 
+# 2021 02 23:
+
+加入[cloud.caozhiming.tk](https://cloud.caozhiming.tk/)公共云存储系统；
+
+加入左下角暗黑模式；
+
+修复了一些bug。
+
 
 
 
