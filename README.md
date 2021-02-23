@@ -31,7 +31,7 @@
 
 加入[cloud.caozhiming.tk](https://cloud.caozhiming.tk/)公共云存储系统；
 
-加入左下角暗黑模式；
+加入左下角暗黑模式手动调制按钮；
 
 修复了一些bug。
 
