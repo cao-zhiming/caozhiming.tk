@@ -1,5 +1,5 @@
 # caozhiming.tk
-[caozhiming.tk](https://caoz.ml)是一个基于WordPress的网站。它集成了博客、论坛、动态、积分等功能，建立自2020.09.22。
+~~[caozhiming.tk](https://caoz.ml)是一个基于WordPress的网站。它集成了博客、论坛、动态、积分等功能，建立自2020.09.22。~~它目前源代码在[GitHub](https://github.com/cao-zhiming/term-web)，是一个网页版指令终端。
 
 # 更新
 
