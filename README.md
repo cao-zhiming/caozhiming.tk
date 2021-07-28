@@ -1,5 +1,5 @@
 # caozhiming.tk
-<del>[caozhiming.tk](https://caoz.ml)是一个基于WordPress的网站。它集成了博客、论坛、动态、积分等功能，建立自2020.09.22。</del>它目前源代码在[GitHub](https://github.com/cao-zhiming/term-web)，是一个网页版指令终端。
+<del>[caozhiming.tk](https://caozhiming.tk)是一个基于WordPress的网站。它集成了博客、论坛、动态、积分等功能，建立自2020.09.22。</del>它目前源代码在[GitHub](https://github.com/cao-zhiming/term-web)，是一个网页版指令终端。
 
 # 更新
 
@@ -9,7 +9,7 @@
 
 # 2021 01 27：
 
-配置了非https的短链接服务[caoz.ml](http://caoz.ml)，托管在GitHub Pages；
+配置了非https的短链接服务caoz.ml，托管在GitHub Pages；
 
 添加了W3 Total Cache来加速；
 
@@ -37,7 +37,7 @@
 
 # 2021 03 21:
 
-加入[终端](http://caozhiming.tk/terminal/)并修复了无法访问归档、标签和分类等页面的bug（方法：重装网站主题）
+加入[终端](http://caozhiming.tk/)并修复了无法访问归档、标签和分类等页面的bug（方法：重装网站主题）
 
 
 
@@ -69,4 +69,4 @@
 - [ ] 将网站恢复为[2021.03.21](#2021-03-21)重装主题前的原样；
 
 ……And more. 
-希望增加一个TO-DO条目？[新建一个issue](https://github.com/xiaocao162020/caozhiming.tk/issues/new/choose) 来告知我！
+希望增加一个TO-DO条目？[新建一个issue](https://github.com/cao-zhiming/caozhiming.tk/issues/new/choose) 来告知我！
